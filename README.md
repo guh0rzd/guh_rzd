@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guh0rzd
+- 👋 Hi, I’m Gustavo Rezende
 - 👀 I’m interested in learn to code
 - 🌱 I’m currently learning javascript, node js, react js
 <!---
